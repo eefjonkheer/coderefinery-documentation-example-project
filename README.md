@@ -13,15 +13,21 @@ analyse_spreadsheet.py is a powerful and efficient way to calculate the mean tem
 
    Yadayada,,
     
-   
 ## How to run?
  
+ Required arguments:
+ * excel file 
  
- `python3 analyse_spreadsheet.py PATH_TO_EXCEL_FILE` 
- `python3 analyse_spreadsheet.py PATH_TO_EXCEL_FILE true` 
+ Optional argument 
+ * print columns 
+ 
+ `$ python3 analyse_spreadsheet.py PATH_TO_EXCEL_FILE` 
+ 
+ `$ python3 analyse_spreadsheet.py PATH_TO_EXCEL_FILE true` 
  
 ## Input file requirements
    
    .xlsx
+   File may contain numbers only 
  
  
