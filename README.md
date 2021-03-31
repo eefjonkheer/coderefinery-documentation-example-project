@@ -27,8 +27,8 @@ analyse_spreadsheet.py is a powerful and efficient way to calculate the mean tem
  
 ## Input file requirements
    
-   .xlsx
+   * .xlsx format
    
-   File may contain numbers only 
+   * File may contain numbers only 
  
  
