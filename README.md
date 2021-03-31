@@ -1,6 +1,6 @@
 
-#
-analyse_spreadsheet.py is a powerful and efficient way to calculate 
+# analyse_spreadsheet.py
+analyse_spreadsheet.py is a powerful and efficient way to calculate the mean temperatures in an Excel file!!!
 
 
 ## INSTALL
@@ -11,12 +11,17 @@ analyse_spreadsheet.py is a powerful and efficient way to calculate
    
 ### Installation steps: 
 
-    Yadayada,,
+   Yadayada,,
     
    
 ## How to run?
- python3 analyse_spreadsheet.py PATH_TO_EXCEL_FILE 
- python3 analyse_spreadsheet.py PATH_TO_EXCEL_FILE true 
  
+ 
+ `python3 analyse_spreadsheet.py PATH_TO_EXCEL_FILE` 
+ `python3 analyse_spreadsheet.py PATH_TO_EXCEL_FILE true` 
+ 
+## Input file requirements
+   
+   .xlsx
  
  
